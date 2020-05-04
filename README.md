@@ -1,4 +1,4 @@
-# TCP-AF_INET-SERVER-WITH-RPCGEN-IMPLEMENT-FOR-MULTIPLE-CLIENTS
+# TCP-AF_INET-SERVER-WITH-RPCGEN-IMPLEMENT-FOR-CALCULATION-AND-MULTIPLE-CLIENTS
 Hello this is my first project on distributed systems if you think there can be some improvments please leave a comment,download it make your changes and lets discuss about this.
 
 More information on how it works.
